@@ -1,0 +1,4 @@
+// jhkjdfdl;dka
+
+db.school.countDocuments({})
+
