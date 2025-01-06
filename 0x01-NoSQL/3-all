@@ -1,0 +1,2 @@
+// lkshkfjad,shh
+db.school.find().forEach(printjson);
