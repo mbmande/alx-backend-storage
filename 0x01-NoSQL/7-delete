@@ -1,0 +1,6 @@
+// hggkhdhakdhaksa
+
+db.school.deleteMany(
+    { name: "Holberton school" }
+)
+
